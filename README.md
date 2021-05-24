@@ -15,40 +15,30 @@ For suburbs, we recommend that PyBer invest in their supply of suburb drivers to
 
 ## Works Cited 
 
-_4.7.8 Format Columns_. (2021). Bootcamp Spot. Retrieved May 22, 2021, from https://
-	courses.bootcampspot.com/courses/577/pages/4-dot-7-8-format-columns
+_4.7.8 Format Columns_. (2021). Bootcamp Spot. Retrieved May 22, 2021, from https://courses.bootcampspot.com/courses/577/pages/4-dot-7-8-format-columns
 
-_4.11.4 Create a DataFrame for the Scores by School Spending_. (2021). Bootcamp Spot. Retrieved May 23, 2021, from https://
-	courses.bootcampspot.com/courses/577/pages/4-dot-11-dot-4-create-a-dataframe-for-the-scores-by-school-spending
+_4.11.4 Create a DataFrame for the Scores by School Spending_. (2021). Bootcamp Spot. Retrieved May 23, 2021, from https://courses.bootcampspot.com/courses/577/pages/4-dot-11-dot-4-create-a-dataframe-for-the-scores-by-school-spending
 
-_5.1.3 Create Line Charts_. (2021). Bootcamp Spot. Retrieved May 23, 2021, from https://
-	courses.bootcampspot.com/courses/577/pages/5-dot-1-3-create-line-charts
+_5.1.3 Create Line Charts_. (2021). Bootcamp Spot. Retrieved May 23, 2021, from https://courses.bootcampspot.com/courses/577/pages/5-dot-1-3-create-line-charts
 
-_5.1.4 Annotate Charts_. (2021). Bootcamp Spot. Retrieved May 23, 2021, from https://
-	matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.xticks.html
+_5.1.4 Annotate Charts_. (2021). Bootcamp Spot. Retrieved May 23, 2021, from https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.xticks.html
 
-_5.1.10 Plot a Pandas DataFrame and Series_. (2021) Bootcamp Spot. Retrieved May 23, 2021, from https://	courses.bootcampspot.com/courses/577/pages/5-dot-1-10-plot-a-pandas-dataframe-and-series
+_5.1.10 Plot a Pandas DataFrame and Series_. (2021) Bootcamp Spot. Retrieved May 23, 2021, from https://courses.bootcampspot.com/courses/577/pages/5-dot-1-10-plot-a-pandas-dataframe-and-series
 
-_5.3.2 Get the Number of Rides for Each City Type_. (2021). Bootcamp Spot. Retrieved May 22, 2021, from https://	courses.bootcampspot.com/courses/577/pages/5-dot-3-2-get-the-number-of-rides-for-each-city-type
+_5.3.2 Get the Number of Rides for Each City Type_. (2021). Bootcamp Spot. Retrieved May 22, 2021, from https://courses.bootcampspot.com/courses/577/pages/5-dot-3-2-get-the-number-of-rides-for-each-city-type
 
-_5.4.4 Create Box-and-Whisker Plots_. (2021). Bootcamp Spot. Retrieved May 23, 2021, from https://
-	courses.bootcampspot.com/courses/577/pages/5-dot-4-4-create-box-and-whisker-plots
+_5.4.4 Create Box-and-Whisker Plots_. (2021). Bootcamp Spot. Retrieved May 23, 2021, from https://courses.bootcampspot.com/courses/577/pages/5-dot-4-4-create-box-and-whisker-plots
 
-_5.5.1 Get the Percentage of Fares for Each City Type_. (2021). Bootcamp Spot. Retrieved May 22, 2021, from https://	courses.bootcampspot.com/courses/577/pages/5-dot-5-1-get-the-percentage-of-fares-for-each-city-type
+_5.5.1 Get the Percentage of Fares for Each City Type_. (2021). Bootcamp Spot. Retrieved May 22, 2021, from https://courses.bootcampspot.com/courses/577/pages/5-dot-5-1-get-the-percentage-of-fares-for-each-city-type
 
-_Accessing pandas dataframe columns, rows, and cells_. (2021). PythonHow. Retrieved May 23, 2021, from https://
-	pythonhow.com/accessing-dataframe-columns-rows-and-cells/
+_Accessing pandas dataframe columns, rows, and cells_. (2021). PythonHow. Retrieved May 23, 2021, from https://pythonhow.com/accessing-dataframe-columns-rows-and-cells/
 
-_matplotlib.pyplot.xticks_. (2021). The Matplotlib development team. Retrieved May 23, 2021, from https://
-	matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.xticks.html
+_matplotlib.pyplot.xticks_. (2021). The Matplotlib development team. Retrieved May 23, 2021, from https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.xticks.html
 
-_Module 5 Challenge_. (2021). Bootcamp Spot. Retrieved May 22, 2021, from https://
-	courses.bootcampspot.com/courses/577/assignments/11857
+_Module 5 Challenge_. (2021). Bootcamp Spot. Retrieved May 22, 2021, from https://courses.bootcampspot.com/courses/577/assignments/11857
 
-_pandas.DataFrame.pivot_. (2021). the pandas development team. Retrieved May 23, 2021, from https://
-	pandas.pydata.org/	pandas-docs/stable/reference/api/pandas.DataFrame.pivot.html
+_pandas.DataFrame.pivot_. (2021). the pandas development team. Retrieved May 23, 2021, from https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.pivot.html
 
-_pandas.DataFrame.plot_. (2021). the pandas development team. Retrieved May 23, 2021, from https://
-	pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.html
+_pandas.DataFrame.plot_. (2021). the pandas development team. Retrieved May 23, 2021, from https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.html
 
 Zach. (2020, September 20). Pandas: How to Group and Aggregate by Multiple Columns. Statology. Retrieved May 23, 2021, 	from https://www.statology.org/pandas-groupby-aggregate-multiple-columns/
